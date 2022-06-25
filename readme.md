@@ -1,5 +1,5 @@
 # AWS Python SDK SES Sample
-## How to use?
+## How to use
 
 **aws-ses-lambda.py**  
 Create function in AWS Lambda (in region that you create SES). Choose build from scratch, for runtime choose Python version (3.9).  
