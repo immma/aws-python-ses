@@ -1,10 +1,10 @@
 # Replace sender@example.com with your "From" address.
     # This address must be verified with Amazon SES.
-    SENDER = "Sender Name <ardi.hanitya@westcon.com>"
+    SENDER = "Sender Name <email@example.com>"
     
     # Replace recipient@example.com with a "To" address. If your account 
     # is still in the sandbox, this address must be verified.
-    RECIPIENT = "sollenmanager@gmail.com"
+    RECIPIENT = "email2@gmail.com"
     
     # Specify a configuration set. If you do not want to use a configuration
     # set, comment the following variable, and the 
